@@ -1,0 +1,1068 @@
+1523106093788	geckodriver	INFO	geckodriver 0.19.1
+1523106093800	geckodriver	INFO	Listening on 127.0.0.1:33839
+1523106095481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gzmSJEWi0IZg"
+1523106098074	Marionette	INFO	Listening on port 2828
+1523107016210	geckodriver	INFO	geckodriver 0.19.1
+1523107016220	geckodriver	INFO	Listening on 127.0.0.1:51325
+1523107017906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pZtq0vZRTUB3"
+1523107019094	Marionette	INFO	Enabled via --marionette
+1523107022442	Marionette	INFO	Listening on port 34275
+1523107022574	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523107459728	geckodriver	INFO	geckodriver 0.19.1
+1523107459739	geckodriver	INFO	Listening on 127.0.0.1:54111
+1523107461452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0KpVEVi4dJlx"
+1523107462694	Marionette	INFO	Enabled via --marionette
+1523107466322	Marionette	INFO	Listening on port 43477
+1523107466410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1523107619217	geckodriver	INFO	geckodriver 0.19.1
+1523107619229	geckodriver	INFO	Listening on 127.0.0.1:58187
+1523107620926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oun3SUph7f9I"
+1523107622138	Marionette	INFO	Enabled via --marionette
+
+(firefox:4089): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4089): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523107625556	Marionette	INFO	Listening on port 41241
+1523107625688	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4089): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4089): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:4089): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523107705734	geckodriver	INFO	geckodriver 0.19.1
+1523107705745	geckodriver	INFO	Listening on 127.0.0.1:41289
+1523107707429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r1APvcgmIWba"
+1523107708614	Marionette	INFO	Enabled via --marionette
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523107712064	Marionette	INFO	Listening on port 43779
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523107712430	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4251): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108046946	geckodriver	INFO	geckodriver 0.19.1
+1523108046958	geckodriver	INFO	Listening on 127.0.0.1:56325
+1523108048649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tENYQqf0qeey"
+1523108049852	Marionette	INFO	Enabled via --marionette
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108053464	Marionette	INFO	Listening on port 35361
+1523108053494	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:4568): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108319361	geckodriver	INFO	geckodriver 0.19.1
+1523108319373	geckodriver	INFO	Listening on 127.0.0.1:40531
+1523108321078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CWfpjx5CUhKs"
+1523108322282	Marionette	INFO	Enabled via --marionette
+
+(firefox:4843): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4843): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108325608	Marionette	INFO	Listening on port 33999
+1523108325724	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4843): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:4843): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:4843): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108367924	geckodriver	INFO	geckodriver 0.19.1
+1523108367938	geckodriver	INFO	Listening on 127.0.0.1:33803
+1523108369622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TPYQmEuIRJSX"
+1523108370796	Marionette	INFO	Enabled via --marionette
+
+(firefox:5011): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5011): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108374176	Marionette	INFO	Listening on port 44199
+1523108374254	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5011): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5011): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:5011): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108462820	geckodriver	INFO	geckodriver 0.19.1
+1523108462832	geckodriver	INFO	Listening on 127.0.0.1:57801
+1523108464544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ygVexT0OsGUf"
+1523108465726	Marionette	INFO	Enabled via --marionette
+
+(firefox:5188): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5188): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108468916	Marionette	INFO	Listening on port 39841
+1523108469002	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5188): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5188): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5188): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:5188): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108867473	geckodriver	INFO	geckodriver 0.19.1
+1523108867487	geckodriver	INFO	Listening on 127.0.0.1:33321
+1523108869189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2pv4VVZKiGYD"
+1523108870394	Marionette	INFO	Enabled via --marionette
+
+(firefox:5402): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5402): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108873788	Marionette	INFO	Listening on port 39863
+1523108873838	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5402): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5402): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:5402): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108913050	geckodriver	INFO	geckodriver 0.19.1
+1523108913059	geckodriver	INFO	Listening on 127.0.0.1:59293
+1523108914750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VM5Ng9phQ8te"
+1523108915940	Marionette	INFO	Enabled via --marionette
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523108919450	Marionette	INFO	Listening on port 41739
+1523108919516	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+
+(firefox:5560): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523109445890	geckodriver	INFO	geckodriver 0.19.1
+1523109445903	geckodriver	INFO	Listening on 127.0.0.1:58807
+1523109447610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9y3x1Ujv4RJa"
+1523109448796	Marionette	INFO	Enabled via --marionette
+
+(firefox:5777): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5777): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523109451924	Marionette	INFO	Listening on port 40653
+
+(firefox:5777): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523109452652	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5777): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:5777): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:5777): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523110176000	geckodriver	INFO	geckodriver 0.19.1
+1523110176012	geckodriver	INFO	Listening on 127.0.0.1:50017
+1523110177695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wPuEutE6rBjs"
+1523110178890	Marionette	INFO	Enabled via --marionette
+
+(firefox:6133): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6133): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523110182192	Marionette	INFO	Listening on port 37751
+1523110182262	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:6133): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6133): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:6133): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523110254351	geckodriver	INFO	geckodriver 0.19.1
+1523110254363	geckodriver	INFO	Listening on 127.0.0.1:44041
+1523110256047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v0el0jJPGCXw"
+1523110257260	Marionette	INFO	Enabled via --marionette
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523110260782	Marionette	INFO	Listening on port 43937
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523110261136	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6305): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523111772392	geckodriver	INFO	geckodriver 0.19.1
+1523111772403	geckodriver	INFO	Listening on 127.0.0.1:57231
+1523111774109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.K3Ea1ASM8RJR"
+1523111775332	Marionette	INFO	Enabled via --marionette
+
+(firefox:6903): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6903): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523111778484	Marionette	INFO	Listening on port 37611
+1523111778556	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:6903): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6903): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:6903): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523112995087	geckodriver	INFO	geckodriver 0.19.1
+1523112995097	geckodriver	INFO	Listening on 127.0.0.1:50983
+1523112996810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QVABUVidHgEc"
+1523112998060	Marionette	INFO	Enabled via --marionette
+
+(firefox:7187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113001584	Marionette	INFO	Listening on port 36917
+1523113001676	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:7187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:7187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113159534	geckodriver	INFO	geckodriver 0.19.1
+1523113159545	geckodriver	INFO	Listening on 127.0.0.1:45909
+1523113161332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dQaCFtF3tzei"
+1523113162560	Marionette	INFO	Enabled via --marionette
+
+(firefox:7363): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7363): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113165930	Marionette	INFO	Listening on port 45445
+1523113166006	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:7363): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7363): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:7363): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113282144	geckodriver	INFO	geckodriver 0.19.1
+1523113282154	geckodriver	INFO	Listening on 127.0.0.1:53635
+1523113283855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6SpGrU0N4Lg0"
+1523113285074	Marionette	INFO	Enabled via --marionette
+
+(firefox:7525): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7525): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113288462	Marionette	INFO	Listening on port 33975
+1523113288502	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:7525): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7525): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:7525): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:7525): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113436880	geckodriver	INFO	geckodriver 0.19.1
+1523113436889	geckodriver	INFO	Listening on 127.0.0.1:32931
+1523113438580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s4z7kraRiKrX"
+1523113439838	Marionette	INFO	Enabled via --marionette
+
+(firefox:7696): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7696): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113442944	Marionette	INFO	Listening on port 44337
+
+(firefox:7696): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113443798	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:7696): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7696): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:7696): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113599720	geckodriver	INFO	geckodriver 0.19.1
+1523113599731	geckodriver	INFO	Listening on 127.0.0.1:56653
+1523113601424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kw5FfY9m9znZ"
+1523113602768	Marionette	INFO	Enabled via --marionette
+
+(firefox:7871): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7871): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113606366	Marionette	INFO	Listening on port 36873
+1523113606480	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:7871): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7871): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:7871): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113816717	geckodriver	INFO	geckodriver 0.19.1
+1523113816729	geckodriver	INFO	Listening on 127.0.0.1:54361
+1523113818470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JkZsUsqNc5Xc"
+1523113819882	Marionette	INFO	Enabled via --marionette
+[Parent 7871, Gecko_IOThread] WARNING: pipe error: Relais brisé (pipe): file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+(firefox:8057): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:7871): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8057): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113823738	Marionette	INFO	Listening on port 36223
+
+(firefox:8057): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523113824254	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:8057): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:8057): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114437361	geckodriver	INFO	geckodriver 0.19.1
+1523114437372	geckodriver	INFO	Listening on 127.0.0.1:45109
+1523114439103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZAxfLrcKZhMF"
+1523114440464	Marionette	INFO	Enabled via --marionette
+
+(firefox:8451): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8451): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114444978	Marionette	INFO	Listening on port 39469
+1523114445106	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:8451): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8451): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:8451): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114508248	geckodriver	INFO	geckodriver 0.19.1
+1523114508259	geckodriver	INFO	Listening on 127.0.0.1:33967
+1523114510011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0kU54Q4M8BbJ"
+1523114511368	Marionette	INFO	Enabled via --marionette
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114515872	Marionette	INFO	Listening on port 43849
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114515968	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8451): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114769377	geckodriver	INFO	geckodriver 0.19.1
+1523114769387	geckodriver	INFO	Listening on 127.0.0.1:37545
+1523114771136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6s6dOJUMyQJD"
+1523114772528	Marionette	INFO	Enabled via --marionette
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114776554	Marionette	INFO	Listening on port 43633
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114776986	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:8633): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114854786	geckodriver	INFO	geckodriver 0.19.1
+1523114854797	geckodriver	INFO	Listening on 127.0.0.1:36643
+1523114856515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Aw6Tt71JNSEY"
+1523114857782	Marionette	INFO	Enabled via --marionette
+
+(firefox:8993): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8993): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523114861432	Marionette	INFO	Listening on port 41885
+1523114861496	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:8993): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8993): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:8993): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:8993): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115027641	geckodriver	INFO	geckodriver 0.19.1
+1523115027653	geckodriver	INFO	Listening on 127.0.0.1:36267
+1523115029394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uvXyXNtF9NNW"
+1523115030730	Marionette	INFO	Enabled via --marionette
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115034534	Marionette	INFO	Listening on port 42969
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115034776	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e g happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+1523115374841	geckodriver	INFO	geckodriver 0.19.1
+1523115374851	geckodriver	INFO	Listening on 127.0.0.1:49689
+1523115376743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QWmC7mbcsDHK"
+1523115378104	Marionette	INFO	Enabled via --marionette
+
+(firefox:9511): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9511): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115382906	Marionette	INFO	Listening on port 41605
+1523115383000	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:9511): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9511): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:9166): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:9511): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9511): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115775178	geckodriver	INFO	geckodriver 0.19.1
+1523115775190	geckodriver	INFO	Listening on 127.0.0.1:51673
+1523115777026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l8JQRqhNDid3"
+1523115778320	Marionette	INFO	Enabled via --marionette
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115782332	Marionette	INFO	Listening on port 34817
+1523115782396	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9764): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:8057): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:6903): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115950658	geckodriver	INFO	geckodriver 0.19.1
+1523115950671	geckodriver	INFO	Listening on 127.0.0.1:47671
+1523115952363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bTf7mmhuvWqp"
+1523115953558	Marionette	INFO	Enabled via --marionette
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523115957186	Marionette	INFO	Listening on port 40565
+1523115957220	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116054618	geckodriver	INFO	geckodriver 0.19.1
+1523116054631	geckodriver	INFO	Listening on 127.0.0.1:60135
+1523116056342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JOBxzt94rAXI"
+1523116057522	Marionette	INFO	Enabled via --marionette
+
+(firefox:10142): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10142): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116060990	Marionette	INFO	Listening on port 41293
+1523116061090	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:10142): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10142): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:10142): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:9972): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10142): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116481390	geckodriver	INFO	geckodriver 0.19.1
+1523116481403	geckodriver	INFO	Listening on 127.0.0.1:33323
+1523116483082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wvZQyLZ1zOFr"
+1523116484266	Marionette	INFO	Enabled via --marionette
+
+(firefox:10344): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10344): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116487754	Marionette	INFO	Listening on port 41799
+1523116487842	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:10344): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10344): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10344): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116538145	geckodriver	INFO	geckodriver 0.19.1
+1523116538155	geckodriver	INFO	Listening on 127.0.0.1:37955
+1523116539837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q1fY4SZVbN5b"
+1523116541026	Marionette	INFO	Enabled via --marionette
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116544428	Marionette	INFO	Listening on port 35785
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523116544824	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10500): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523117176470	geckodriver	INFO	geckodriver 0.19.1
+1523117176480	geckodriver	INFO	Listening on 127.0.0.1:47747
+1523117178189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.deEGJ872PPRM"
+1523117179368	Marionette	INFO	Enabled via --marionette
+
+(firefox:10976): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10976): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523117182588	Marionette	INFO	Listening on port 43685
+1523117182666	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:10976): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:10976): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:10976): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523117246164	geckodriver	INFO	geckodriver 0.19.1
+1523117246175	geckodriver	INFO	Listening on 127.0.0.1:41893
+1523117247875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p3SorwjSF6pB"
+1523117249084	Marionette	INFO	Enabled via --marionette
+
+(firefox:11129): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:11129): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523117252558	Marionette	INFO	Listening on port 37791
+1523117252658	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:11129): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:11129): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:10976): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:11129): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:11129): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523123216738	geckodriver	INFO	geckodriver 0.19.1
+1523123216749	geckodriver	INFO	Listening on 127.0.0.1:58033
+1523123218433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tHVpgEUj3yrT"
+1523123219634	Marionette	INFO	Enabled via --marionette
+
+(firefox:12851): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:12851): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523123222828	Marionette	INFO	Listening on port 33899
+1523123222910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523123223480	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279
+[Parent 12851, Gecko_IOThread] WARNING: pipe error (99): Connexion ré-initialisée par le correspondant: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+(firefox:12851): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:12851): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:12851): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523123386107	geckodriver	INFO	geckodriver 0.19.1
+1523123386117	geckodriver	INFO	Listening on 127.0.0.1:58953
+1523123387814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IyXvrn9XAAQP"
+1523123389020	Marionette	INFO	Enabled via --marionette
+
+(firefox:13029): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:13029): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523123392428	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279
+1523123392612	Marionette	INFO	Listening on port 43205
+1523123392660	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:13029): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13078, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523123980072	geckodriver	INFO	geckodriver 0.19.1
+1523123980091	geckodriver	INFO	Listening on 127.0.0.1:36623
+1523123981838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lt73RxijTVLd"
+1523123983150	Marionette	INFO	Enabled via --marionette
+
+(firefox:957): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:957): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523123987072	Marionette	INFO	Listening on port 42435
+1523123987182	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:957): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523123987736	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279
+
+(firefox:957): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:957): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523125003478	geckodriver	INFO	geckodriver 0.19.1
+1523125003496	geckodriver	INFO	Listening on 127.0.0.1:33335
+1523125005377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.elUk222kS6ex"
+1523125007028	Marionette	INFO	Enabled via --marionette
+
+(firefox:826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523125010560	Marionette	INFO	Listening on port 41269
+1523125010668	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:826): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523293709601	geckodriver	INFO	geckodriver 0.19.1
+1523293709621	geckodriver	INFO	Listening on 127.0.0.1:41665
+1523293711348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S73JdYXGrANx"
+1523293712666	Marionette	INFO	Enabled via --marionette
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523293716500	Marionette	INFO	Listening on port 37563
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1523293716850	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:1120): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
